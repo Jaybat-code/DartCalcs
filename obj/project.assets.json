@@ -329,11 +329,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jacob/Desktop/Darts/Darts.csproj",
+      "projectUniqueName": "/home/jacob/Desktop/Projects/Darts/Darts.csproj",
       "projectName": "Darts",
-      "projectPath": "/home/jacob/Desktop/Darts/Darts.csproj",
+      "projectPath": "/home/jacob/Desktop/Projects/Darts/Darts.csproj",
       "packagesPath": "/home/jacob/.nuget/packages/",
-      "outputPath": "/home/jacob/Desktop/Darts/obj/",
+      "outputPath": "/home/jacob/Desktop/Projects/Darts/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/jacob/.nuget/NuGet/NuGet.Config"
